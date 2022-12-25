@@ -1,4 +1,4 @@
-# Python-Barcode-Module-
+# Python Barcode Reader - ushankv2005
 Barcode reading function in python (V1)
 
 # Why this module?
